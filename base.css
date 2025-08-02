@@ -1,0 +1,27 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: darkcyan;
+    color: #111111;
+    margin: 0px;
+    height: 100vh;
+}
+
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+figure {
+
+    padding: 4px;
+    margin: auto;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin: 0px;
+}

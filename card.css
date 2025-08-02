@@ -1,0 +1,49 @@
+button {
+    background-color: #008b8b;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 7px;
+    font-style: italic;
+}
+
+.button a {
+    color: antiquewhite;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.card {
+    background-color: antiquewhite;
+    width: 200px;
+    color: black;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    height: fit-content;
+}
+
+.new-card {
+    background-color: bisque;
+    padding: 22px;
+    color: black;
+    width: 400px;
+    border-radius: 30px;
+}
+
+.new-card button a {
+    color: rgb(238, 237, 241);
+    font-size: 18px;
+    border-radius: 20px
+}
+
+.new-card img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
